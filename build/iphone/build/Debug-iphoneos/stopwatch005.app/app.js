@@ -1,0 +1,1 @@
+/Users/seiji/Documents/Titanium_Studio_Workspace/stopwatch005/Resources/app.js
